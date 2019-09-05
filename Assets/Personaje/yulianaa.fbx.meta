@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 6629ea48fc44b1047b3ba18cd758b54e
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Body_Diffuse
+    second: {fileID: 2800000, guid: 6d18af5a59055594aadec855c6df0db9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Body_Gloss
+    second: {fileID: 2800000, guid: aad20e8780ba31d4ca6cd230bb26e1ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Body_Normal
+    second: {fileID: 2800000, guid: 2248d0c86e3fbe845b7619893524ab27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Body_Opacity
+    second: {fileID: 2800000, guid: 3d797f48a2f8f0f4cb891dfdd39a8e8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Body_Specular
+    second: {fileID: 2800000, guid: d698bd7af9abf18409506c0565761457, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Bottom_Diffuse
+    second: {fileID: 2800000, guid: 924a60e51f63f5345843f9c7296d91a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Bottom_Gloss
+    second: {fileID: 2800000, guid: 53f37d14ba8c04a44bcede36f3585b52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Bottom_Normal
+    second: {fileID: 2800000, guid: 08c525e122dab0844be00340e488991d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Bottom_Opacity
+    second: {fileID: 2800000, guid: 37bd2ed18060fb14e86477012d22a219, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Bottom_Specular
+    second: {fileID: 2800000, guid: 4c49d8c0d2b733b44a55c90bd135cfbe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Eyewear_Diffuse
+    second: {fileID: 2800000, guid: ac056c55987111d48adcc72a1f38d6c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Eyewear_Gloss
+    second: {fileID: 2800000, guid: 1b72ccd81c1714149a9ba9fd9db5a80f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Eyewear_Normal
+    second: {fileID: 2800000, guid: 8b13fccb4bd2dc141992a92964054fa0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Eyewear_Opacity
+    second: {fileID: 2800000, guid: 320af533b22a8394092887fcdbf430dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Eyewear_Specular
+    second: {fileID: 2800000, guid: 0efc311ecfad8424d9ffa75c8a3555ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Glove_Diffuse
+    second: {fileID: 2800000, guid: 5609110bafe60d34c8b029642ebb0879, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Glove_Gloss
+    second: {fileID: 2800000, guid: 71c30eb7e889f504290626e8b121c895, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Glove_Normal
+    second: {fileID: 2800000, guid: aa3b2e37f794ce245ab89a812d9e48dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Glove_Opacity
+    second: {fileID: 2800000, guid: ada75983568a2a545832c45d101f26e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Glove_Specular
+    second: {fileID: 2800000, guid: 32f22e5d9f5f89e498b209fc58d308d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Hair_Diffuse
+    second: {fileID: 2800000, guid: 12c585cfb818d694c8ddd691702b19da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Hair_Gloss
+    second: {fileID: 2800000, guid: 3903d4d1fff362848894eb5de2e2e662, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Hair_Normal
+    second: {fileID: 2800000, guid: 3190f7d54c9d43e4aa9371cc666c0e47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Hair_Opacity
+    second: {fileID: 2800000, guid: 9b38066b996c5d7408db53ba908ef754, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Hair_Specular
+    second: {fileID: 2800000, guid: 018e230d35df8434aaa553606b710de8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Shoes_Diffuse
+    second: {fileID: 2800000, guid: 8194d74bed88f5342803bdc7afd40dc2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Shoes_Gloss
+    second: {fileID: 2800000, guid: 09ba0a5cb5444444590a4fa6aa30f411, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Shoes_Normal
+    second: {fileID: 2800000, guid: c8cfb7aee278781489d08ecf4c987ff7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Shoes_Opacity
+    second: {fileID: 2800000, guid: 868bdcd7ca457c948ad4c11fd51acc8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Shoes_Specular
+    second: {fileID: 2800000, guid: 48899867cd4885e49a7c699cbcf611d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Top_Diffuse
+    second: {fileID: 2800000, guid: 3af53241195342a41b986ca124230821, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Top_Gloss
+    second: {fileID: 2800000, guid: bfacae19cb174ff4294a6403908aa06e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Top_Normal
+    second: {fileID: 2800000, guid: 8b00f50362bda364b9b35acd160a72e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Top_Opacity
+    second: {fileID: 2800000, guid: 68d68d64e5fabc24da0fc031e06d40d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yulianaa_Top_Specular
+    second: {fileID: 2800000, guid: 391e5637e29ca5548bcee7c8abd3279b, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
