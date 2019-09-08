@@ -11,7 +11,7 @@ public class PlayerMotor : MonoBehaviour {
     private float jump = 5f;
     private float gravity = 12f;
     private float verticalVelocity;
-    private float speed = 7f;
+    private float speed = 6f;
     private int lane = 1;
 
     private bool isRunning = false;
@@ -114,12 +114,18 @@ public class PlayerMotor : MonoBehaviour {
 	{
         if(hit.gameObject.CompareTag("Obstacle")){
             //Morir el personaje
+            print("muere");
             Crash();
         }
-	}
+        if (hit.gameObject.CompareTag("Collectable"))
+        {
+            print("moneda");
+        }
+    }
 
     void Crash(){
         anim.SetTrigger("death");
         isRunning = false;
+        GameManager.Instance.GameOver();
     }
 }

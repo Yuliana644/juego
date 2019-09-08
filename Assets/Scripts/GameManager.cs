@@ -17,12 +17,15 @@ public class GameManager : MonoBehaviour
 
     private float score;
     private float coins;
-    private float finalScore;
 
     // text
 
     public Text scoreText;
     public Text coinsText;
+    public Text scoreTextTotal;
+    public Text coinsTextTotal;
+    public GameObject play;
+    public GameObject gameOverPanel;
 
     public bool IsGameStarted
     {
@@ -56,6 +59,7 @@ public class GameManager : MonoBehaviour
     public void startGame ()
     {
         isGameStarted = true;
+        play.SetActive(false);
         motor.StartRun();
     }
 
@@ -68,7 +72,11 @@ public class GameManager : MonoBehaviour
 
     public void GameOver()
     {
-        finalScore = score + coins;
+        gameOverPanel.SetActive(true);
+        scoreTextTotal.text =  scoreText.text;
+        coinsTextTotal.text = coinsText.text;
+        coinsText.text = coins.ToString("0");
+        play.SetActive(true);
     }
 
     public void PlayAgain ()
@@ -86,4 +94,5 @@ public class GameManager : MonoBehaviour
         scoreText.text = score.ToString("0");
         coinsText.text = coins.ToString("0");
     }
+
 }
